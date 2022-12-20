@@ -1,0 +1,47 @@
+[
+  {
+    "owner": "Asadbek",
+    "cardNum": "9860759338839487",
+    "pin": "1111",
+    "sum": 48000.0,
+    "id": 1,
+    "state": false,
+    "type": "HUMO"
+  },
+  {
+    "id": 2,
+    "owner": "Doni",
+    "cardNum": "8600863660579098",
+    "sum": 95897.0,
+    "state": false,
+    "type": "UZCARD",
+    "pin": "2222"
+  },
+  {
+    "owner": "Jahongir",
+    "cardNum": "9860275344148158",
+    "pin": "3333",
+    "sum": 100000,
+    "id": 3,
+    "state": false,
+    "type": "HUMO"
+  },
+  {
+    "owner": "Abror",
+    "cardNum": "8600433943354597",
+    "pin": "5885",
+    "sum": 100000,
+    "id": 4,
+    "state": true,
+    "type": "UZCARD"
+  },
+  {
+    "owner": "Botush",
+    "cardNum": "9860374584732406",
+    "pin": "1243",
+    "sum": 100000,
+    "id": 5,
+    "state": true,
+    "type": "HUMO"
+  }
+]

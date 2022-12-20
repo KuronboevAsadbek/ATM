@@ -1,0 +1,101 @@
+[
+  {
+    "date": "Dec 17, 2022, 10:29:47 PM",
+    "incomingSum": 2000.0,
+    "transferedSum": 0.0,
+    "id": 2,
+    "senderCardnum": "9860759338839487",
+    "incomCardNum": "8600863660579098",
+    "senderOwner": "Asadbek",
+    "incomeOwner": "Tanusbek",
+    "moneyLeft": 11350.0
+  },
+  {
+    "date": "Dec 17, 2022, 10:30:17 PM",
+    "incomingSum": 0.0,
+    "transferedSum": 4000.0,
+    "id": 2,
+    "senderCardnum": "8600863660579098",
+    "incomCardNum": "8600433943354597",
+    "senderOwner": "Tanusbek",
+    "incomeOwner": "Troyka",
+    "moneyLeft": 6950.0
+  },
+  {
+    "date": "Dec 17, 2022, 10:30:17 PM",
+    "incomingSum": 4000.0,
+    "transferedSum": 0.0,
+    "id": 4,
+    "senderCardnum": "8600863660579098",
+    "incomCardNum": "8600433943354597",
+    "senderOwner": "Tanusbek",
+    "incomeOwner": "Troyka",
+    "moneyLeft": 4650.0
+  },
+  {
+    "date": "Dec 17, 2022, 10:30:46 PM",
+    "incomingSum": 0.0,
+    "transferedSum": 1000.0,
+    "id": 1,
+    "senderCardnum": "9860759338839487",
+    "incomCardNum": "8600863660579098",
+    "senderOwner": "Asadbek",
+    "incomeOwner": "Tanusbek",
+    "moneyLeft": 4285.0
+  },
+  {
+    "date": "Dec 17, 2022, 10:30:46 PM",
+    "incomingSum": 1000.0,
+    "transferedSum": 0.0,
+    "id": 2,
+    "senderCardnum": "9860759338839487",
+    "incomCardNum": "8600863660579098",
+    "senderOwner": "Asadbek",
+    "incomeOwner": "Tanusbek",
+    "moneyLeft": 7950.0
+  },
+  {
+    "date": "Dec 18, 2022, 3:43:26 PM",
+    "incomingSum": 0.0,
+    "transferedSum": 50000.0,
+    "id": 1,
+    "senderCardnum": "9860759338839487",
+    "incomCardNum": "8600863660579098",
+    "senderOwner": "Asadbek",
+    "incomeOwner": "Tanusbek",
+    "moneyLeft": 45000.0
+  },
+  {
+    "date": "Dec 18, 2022, 3:43:26 PM",
+    "incomingSum": 50000.0,
+    "transferedSum": 0.0,
+    "id": 2,
+    "senderCardnum": "9860759338839487",
+    "incomCardNum": "8600863660579098",
+    "senderOwner": "Asadbek",
+    "incomeOwner": "Tanusbek",
+    "moneyLeft": 150000.0
+  },
+  {
+    "id": 2,
+    "senderCardnum": "8600863660579098",
+    "senderOwner": "Tanusbek",
+    "incomCardNum": "9860759338839487",
+    "incomeOwner": "Asadbek",
+    "incomingSum": 0.0,
+    "transferedSum": 3000.0,
+    "moneyLeft": 96200.0,
+    "date": "Dec 18, 2022, 4:06:14 PM"
+  },
+  {
+    "id": 1,
+    "senderCardnum": "8600863660579098",
+    "senderOwner": "Tanusbek",
+    "incomCardNum": "9860759338839487",
+    "incomeOwner": "Asadbek",
+    "incomingSum": 3000.0,
+    "transferedSum": 0.0,
+    "moneyLeft": 48000.0,
+    "date": "Dec 18, 2022, 4:06:14 PM"
+  }
+]
